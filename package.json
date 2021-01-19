@@ -5,11 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon /Users/yoshiefujiwara/JR_PhaseReview/wikistack2/app.js"
+    "start": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "html-template-tag": "^3.2.0"
+    "express": "^4.17.1",
+    "html-template-tag": "^3.2.0",
+    "morgan": "^1.10.0",
+    "pg": "^8.5.1",
+    "sequelize": "^6.4.0"
   }
 }
