@@ -1,0 +1,15 @@
+{
+  "name": "wikistack2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon /Users/yoshiefujiwara/JR_PhaseReview/wikistack2/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-template-tag": "^3.2.0"
+  }
+}
